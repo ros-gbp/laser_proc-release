@@ -1,3 +1,24 @@
+## laser_proc (jade) - 0.1.4-0
+
+The packages in the `laser_proc` repository were released into the `jade` distro by running `/usr/bin/bloom-release laser_proc --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:36:32 -0000`
+
+The `laser_proc` package was released.
+
+Version of package(s) in repository `laser_proc`:
+- upstream repository: git://github.com/ros-perception/laser_proc.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## laser_proc (indigo) - 0.1.4-1
 
 The packages in the `laser_proc` repository were released into the `indigo` distro by running `/usr/bin/bloom-release laser_proc -t indigo -r indigo` on `Mon, 16 Jun 2014 22:37:41 -0000`
