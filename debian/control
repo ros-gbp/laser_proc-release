@@ -1,0 +1,12 @@
+Source: ros-kinetic-laser-proc
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-nodelet, ros-kinetic-pluginlib, ros-kinetic-rosconsole, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Homepage: http://ros.org/wiki/laser_proc
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-laser-proc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-nodelet, ros-kinetic-pluginlib, ros-kinetic-rosconsole, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Description: laser_proc
