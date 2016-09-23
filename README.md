@@ -1,3 +1,26 @@
+## laser_proc (kinetic) - 0.1.4-0
+
+The packages in the `laser_proc` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release laser_proc -t kinetic -r kinetic` on `Fri, 23 Sep 2016 17:54:35 -0000`
+
+The `laser_proc` package was released.
+
+Version of package(s) in repository `laser_proc`:
+
+- upstream repository: git://github.com/ros-perception/laser_proc.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## laser_proc (jade) - 0.1.4-0
 
 The packages in the `laser_proc` repository were released into the `jade` distro by running `/usr/bin/bloom-release laser_proc --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:36:32 -0000`
