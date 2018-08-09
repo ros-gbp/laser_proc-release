@@ -1,0 +1,12 @@
+Source: ros-melodic-laser-proc
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-nodelet, ros-melodic-pluginlib, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Homepage: http://ros.org/wiki/laser_proc
+Standards-Version: 3.9.2
+
+Package: ros-melodic-laser-proc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-nodelet, ros-melodic-pluginlib, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Description: laser_proc
