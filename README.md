@@ -1,3 +1,26 @@
+## laser_proc (lunar) - 0.1.4-0
+
+The packages in the `laser_proc` repository were released into the `lunar` distro by running `/usr/bin/bloom-release laser_proc -t lunar -r lunar --new-track` on `Thu, 09 Aug 2018 23:10:07 -0000`
+
+The `laser_proc` package was released.
+
+Version of package(s) in repository `laser_proc`:
+
+- upstream repository: git://github.com/ros-perception/laser_proc.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## laser_proc (kinetic) - 0.1.4-0
 
 The packages in the `laser_proc` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release laser_proc -t kinetic -r kinetic` on `Fri, 23 Sep 2016 17:54:35 -0000`
