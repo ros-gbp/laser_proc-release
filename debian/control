@@ -1,0 +1,12 @@
+Source: ros-lunar-laser-proc
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-nodelet, ros-lunar-pluginlib, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs
+Homepage: http://ros.org/wiki/laser_proc
+Standards-Version: 3.9.2
+
+Package: ros-lunar-laser-proc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-nodelet, ros-lunar-pluginlib, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs
+Description: laser_proc
