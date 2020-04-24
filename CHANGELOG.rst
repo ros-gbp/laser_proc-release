@@ -2,6 +2,11 @@
 Changelog for package laser_proc
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.6 (2020-04-24)
+------------------
+* Update required cmake version
+* Contributors: Jon Binney
+
 0.1.5 (2018-08-09)
 ------------------
 * update to use non deprecated pluginlib macro
