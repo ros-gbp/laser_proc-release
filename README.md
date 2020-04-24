@@ -1,3 +1,26 @@
+## laser_proc (noetic) - 0.1.6-1
+
+The packages in the `laser_proc` repository were released into the `noetic` distro by running `/usr/bin/bloom-release laser_proc --track noetic --rosdistro noetic --new-track` on `Fri, 24 Apr 2020 19:11:53 -0000`
+
+The `laser_proc` package was released.
+
+Version of package(s) in repository `laser_proc`:
+
+- upstream repository: git://github.com/ros-perception/laser_proc.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## laser_proc (melodic) - 0.1.5-0
 
 The packages in the `laser_proc` repository were released into the `melodic` distro by running `/usr/bin/bloom-release laser_proc -t melodic -r melodic --new-track` on `Thu, 09 Aug 2018 23:55:00 -0000`
